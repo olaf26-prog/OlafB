@@ -14,7 +14,7 @@ font-family: Tahoma;
 
 font-size:300%;
 
-text-align: left;
+text-align: center;
 
 }
 
@@ -25,31 +25,31 @@ body{
 p{
     color: #6F4E37;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    text-align: left;
+    text-align: center;
     margin: auto;
 }
 
 img{
 
-text-align: left;
+text-align: center;
 margin: 10%, auto;
 
 }
 
 .img{
     display: flex;
-    justify-content:left;
+    justify-content:center;
     
 }
 
 h3{
-    text-align: left;
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 
 h2{
-    text-align: left;
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
